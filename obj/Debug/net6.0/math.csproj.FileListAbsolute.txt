@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/bin/Debug/net6.0/math
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/bin/Debug/net6.0/math.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/bin/Debug/net6.0/math.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/bin/Debug/net6.0/math.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/bin/Debug/net6.0/math.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/refint/math.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/math.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/03 - Math/math/obj/Debug/net6.0/ref/math.dll
